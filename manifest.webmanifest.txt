@@ -1,0 +1,32 @@
+{
+  "name": "Kasir Chemindo Agung",
+  "short_name": "Kasir",
+  "description": "Kasir sederhana: nama barang, jumlah, harga jual, tunai atau QRIS, struk 80 mm.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#E8EEF0",
+  "theme_color": "#0A7557",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
